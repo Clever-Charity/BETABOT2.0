@@ -221,6 +221,6 @@
 					</div><!--End wrap-products-->
 				</div>
 
-			</div><!--end main content area-->
-		</div><!--end container-->
+			</div> <!--end main content area-->
+		</div> <!--end container-->
 </main>
